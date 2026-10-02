@@ -1,12 +1,8 @@
 {
-  "Filename": "KoaxTzy.js",
-  "Access": [
-    "6287899003235",
-    
-    "6287899003235"
+  "Filename": "floids infinity",
+  "Number": [
+    "6288809023312"
   ],
-  "Access_Bot": [
-    "6287899003235",
-    "6287899003235"
-  ]
+  "Akses_server": "on",
+  "Expired": 1821686400000
 }
